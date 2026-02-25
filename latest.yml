@@ -1,8 +1,8 @@
-version: 1.1.0
+version: 1.1.1
 files:
-  - url: Vahan-Extractor-Setup-1.1.0.exe
-    sha512: l2/Da86mywqczNuP+++gE1G1FLxxB0AMsl/BACEiL/txII1UuI8EmxWPAp92XHQERFWyut9KHo439ed0344EJA==
-    size: 96519666
-path: Vahan-Extractor-Setup-1.1.0.exe
-sha512: l2/Da86mywqczNuP+++gE1G1FLxxB0AMsl/BACEiL/txII1UuI8EmxWPAp92XHQERFWyut9KHo439ed0344EJA==
-releaseDate: '2026-02-20T03:28:40.364Z'
+  - url: Vahan-Extractor-Setup-1.1.1.exe
+    sha512: tQM2R2IopZxZ8NT2fpJn3e4OZnBKGpBS5rONn2aqBnuUU/+RUmnU3u/cZd7Vrjis//SjNE/aHEOITqd9FlDHQg==
+    size: 96519996
+path: Vahan-Extractor-Setup-1.1.1.exe
+sha512: tQM2R2IopZxZ8NT2fpJn3e4OZnBKGpBS5rONn2aqBnuUU/+RUmnU3u/cZd7Vrjis//SjNE/aHEOITqd9FlDHQg==
+releaseDate: '2026-02-25T17:48:26.086Z'
